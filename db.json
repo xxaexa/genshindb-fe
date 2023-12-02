@@ -1,0 +1,85 @@
+{
+  "artifact": [
+    {
+      "_id": "64a8575d1f761d85ef70cd50",
+      "name": "Gladiator's",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+      "createdAt": "2023-07-07T18:20:13.088Z",
+      "updatedAt": "2023-07-07T18:20:13.088Z",
+      "__v": 0
+    },
+    {
+      "_id": "64a857631f761d85ef70cd54",
+      "name": "Gilded Dreams",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+      "createdAt": "2023-07-07T18:20:19.711Z",
+      "updatedAt": "2023-07-07T18:20:19.711Z",
+      "__v": 0
+    },
+    {
+      "_id": "64a857641f761d85ef70cd56",
+      "name": "Hearth of dep",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+      "createdAt": "2023-07-07T18:20:20.767Z",
+      "updatedAt": "2023-07-07T18:20:20.767Z",
+      "__v": 0
+    },
+    {
+      "_id": "64abb0115daf7732eb015205",
+      "name": "Maiden Beloved",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+      "createdAt": "2023-07-07T18:20:20.767Z",
+      "updatedAt": "2023-07-07T18:20:20.767Z",
+      "__v": 0
+    },
+    {
+      "_id": "64abb2055daf7732eb015206",
+      "name": "Noblesse Oblige",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+      "createdAt": "2023-07-07T18:20:20.767Z",
+      "updatedAt": "2023-07-07T18:20:20.767Z",
+      "__v": 0
+    },
+    {
+      "_id": "64abb21a5daf7732eb015207",
+      "name": "Pale Flame",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+      "createdAt": "2023-07-07T18:20:20.767Z",
+      "updatedAt": "2023-07-07T18:20:20.767Z",
+      "__v": 0
+    },
+    {
+      "_id": "64b686a197a6bd506a97b954",
+      "name": "Crimson Witch of Flames",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+      "createdAt": "2023-07-07T18:20:20.767Z",
+      "updatedAt": "2023-07-07T18:20:20.767Z",
+      "__v": 0
+    },
+    {
+      "_id": "64b686e497a6bd506a97b955",
+      "name": "Emblem of Severed Fate",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+      "createdAt": "2023-07-07T18:20:20.767Z",
+      "updatedAt": "2023-07-07T18:20:20.767Z",
+      "__v": 0
+    },
+    {
+      "_id": "64b6871097a6bd506a97b956",
+      "name": "Viridescent Venerer",
+      "star": 5,
+      "url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+      "createdAt": "2023-07-07T18:20:20.767Z",
+      "updatedAt": "2023-07-07T18:20:20.767Z",
+      "__v": 0
+    }
+  ]
+}
